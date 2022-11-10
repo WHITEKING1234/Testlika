@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		04B968DC291D2A71009C5F27 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04B968DB291D2A71009C5F27 /* main.swift */; };
+		04B968E3291D2AE7009C5F27 /* srudent.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04B968E2291D2AE7009C5F27 /* srudent.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +26,7 @@
 /* Begin PBXFileReference section */
 		04B968D8291D2A71009C5F27 /* Testlika */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Testlika; sourceTree = BUILT_PRODUCTS_DIR; };
 		04B968DB291D2A71009C5F27 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		04B968E2291D2AE7009C5F27 /* srudent.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = srudent.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 			isa = PBXGroup;
 			children = (
 				04B968DB291D2A71009C5F27 /* main.swift */,
+				04B968E2291D2AE7009C5F27 /* srudent.swift */,
 			);
 			path = Testlika;
 			sourceTree = "<group>";
@@ -121,6 +124,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				04B968DC291D2A71009C5F27 /* main.swift in Sources */,
+				04B968E3291D2AE7009C5F27 /* srudent.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
